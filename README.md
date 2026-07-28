@@ -8,7 +8,6 @@
   <a href="https://secastrog.github.io/" target="_blank"><img src="https://img.shields.io/badge/🌐_My_Virtual_Portfolio-0EA5E9?style=for-the-badge&logoColor=white" alt="Portfolio" /></a>&nbsp;
   <a href="https://www.linkedin.com/in/sergio-esteban-castro-giraldo-aa6a38228" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
   <a href="mailto:sergiocastro1915@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;
-  <a href="https://www.instagram.com/sergiocastrogiraldo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 </p>
 
 ---
