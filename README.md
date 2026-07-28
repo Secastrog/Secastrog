@@ -5,9 +5,9 @@
 <h1 align="center">Senior Full-Stack & AI Developer | Cloud Architect</h1>
 
 <p align="center">
-  <a href="https://secastrog.github.io/" target="_blank"><img src="https://img.shields.io/badge/🌐_My_Virtual_Portfolio-0EA5E9?style=for-the-badge&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/sergio-esteban-castro-giraldo-aa6a38228" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:sergiocastro1915@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://secastrog.github.io/" target="_blank"><img src="https://img.shields.io/badge/🌐_My_Virtual_Portfolio-0EA5E9?style=for-the-badge&logoColor=white" alt="Portfolio" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/sergio-esteban-castro-giraldo-aa6a38228" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+  <a href="mailto:sergiocastro1915@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;
   <a href="https://www.instagram.com/sergiocastrogiraldo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 </p>
 
@@ -43,14 +43,24 @@ With over 6 years of industry experience, my goal is to transform complex busine
 
 ---
 
-### 📂 Featured Projects (Enterprise Repositories)
+### 📂 Enterprise Reference Architectures & Projects
 
-I specialize in clean and secure architectures. I've created these reference architectures to demonstrate my coding style and best practices:
+I specialize in clean, secure, and scalable systems. Below is a curated collection of reference architectures and mocks that demonstrate my coding standards and best practices:
 
+#### ⚙️ Backend & Architecture
 - 🏦 **[Fintech Payment Gateway Mock](https://github.com/Secastrog/Fintech-Payment-Gateway-Mock)**: Resilient REST API, idempotency handling, and async processing with C#.
-- 🤖 **[AI Operational Assistant](https://github.com/Secastrog/AI-Operational-Assistant)**: LLM integration in C# using Semantic Kernel for enterprise data analysis.
-- 🏗️ **[Enterprise Clean Architecture Template](https://github.com/Secastrog/Enterprise-Clean-Architecture-Template)**: My personal Clean Architecture template in .NET 10.
+- 🏗️ **[Enterprise Clean Architecture Template](https://github.com/Secastrog/Enterprise-Clean-Architecture-Template)**: Production-ready Clean Architecture template in .NET.
 - 🔐 **[Advanced Auth Flow](https://github.com/Secastrog/Advanced-Auth-Flow)**: Secure OAuth2 and JWT authentication mock.
+- 📐 **[API Governance Standards](https://github.com/Secastrog/API-Governance-Standards)**: Guidelines and design patterns for robust enterprise APIs.
+- 🏛️ **[System Design ADRs](https://github.com/Secastrog/System-Design-ADRs)**: Architecture Decision Records mapping scalable system designs.
+
+#### ☁️ Cloud, DevOps & SRE
+- ☁️ **[Cloud IaC Reference Architecture](https://github.com/Secastrog/Cloud-IaC-Reference-Architecture)**: Infrastructure as Code templates for Azure and AWS deployments.
+- 🔄 **[DevOps CI/CD Templates](https://github.com/Secastrog/DevOps-CICD-Templates)**: Standardized CI/CD pipelines for automated and safe releases.
+- 📊 **[SRE Observability Playbook](https://github.com/Secastrog/SRE-Observability-Playbook)**: Health checks, monitoring, and incident response strategies.
+
+#### 🤖 Artificial Intelligence
+- 🧠 **[AI Operational Assistant](https://github.com/Secastrog/AI-Operational-Assistant)**: LLM integration using Semantic Kernel for enterprise data analysis and workflow automation.
 
 > _Note: Many of my real-world projects are closed-source developments for enterprises and the financial sector, which is why I have built and published the repositories above to showcase the quality of my architectural work._
 
