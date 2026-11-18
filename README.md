@@ -67,4 +67,4 @@ I specialize in clean, secure, and scalable systems. Below is a curated collecti
 <div align="center">
   <i>"Code is the tool; solving human problems is the goal."</i>
 </div>
-<img src="https://komarev.com/ghpvc/?username=Secastrog&label=Visitas%20al%20perfil&color=0EA5E9&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=Secastrog&label=Visitas%20al%20perfil&color=0EA5E9&style=flat&center=true" />
